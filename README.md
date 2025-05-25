@@ -1,5 +1,11 @@
 # Frog_Keychain
-My first pcb made  for the solder event at hackclub. I am very grateful that I got the chance to experience making circuits and wiring components. Thak you hackclub!
+A Frog shaped PCB keychain with 4 LEDs and a switch. The frog lights up when the switch is pressed. 
+This was my first pcb made  for the solder event at hackclub. I am very grateful that I got the chance to experience making circuits and wiring components. Thak you hackclub!
 ![PCB image](<Screenshot 2025-05-24 152243.png>)
 ![Schematic image](<Screenshot 2025-05-24 150715.png>) 
 ![3d view of image](<Screenshot 2025-05-24 150733.png>)
+Items used:
+4x 220 ohm resistors
+4x LEDs
+1 CR2032 battery with holder 
+1x 2 pin switch
