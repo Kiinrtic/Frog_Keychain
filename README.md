@@ -9,3 +9,4 @@ Items used:
 4x LEDs
 1 CR2032 battery with holder 
 1x 2 pin switch
+Slack name: @Kiinrtic
